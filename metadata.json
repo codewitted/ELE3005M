@@ -1,0 +1,5 @@
+{
+  "name": "Robotics Kinematics & Trajectory Simulator",
+  "description": "A comprehensive tool for 6-DOF robot kinematics, Jacobian analysis, and trajectory planning (Rectangular, Time-Optimal, and Spiral paths).",
+  "requestFramePermissions": []
+}
